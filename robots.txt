@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://minh42.github.io/seomatic-canary/sitemap.xml
